@@ -1,0 +1,6 @@
+{
+  "name": "Serbisyo PH",
+  "description": "Your Guide to Jobs, Government Services & Opportunities in the Philippines. Build ATS-friendly resumes, browse verified government online guides, and prepare for job applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
